@@ -1,2 +1,3 @@
-# CS-2012-Exeter7
-Helper project for ATM parts purchasing manager. Deprecated at early stage.
+### CS-2012-Exeter7
+# Exeter7
+### Вспомогательный проект для менеджера по закупкам запасных частей к банкоматам. Разработка прекращена на ранней стадии.
